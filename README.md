@@ -1,2 +1,1 @@
-# portho
-Portho: Orthographic Neighbors in European Portuguese
+# Portho: Orthographic Neighbors in European Portuguese
