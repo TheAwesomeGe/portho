@@ -28,7 +28,7 @@ st.set_page_config(
 
 # App title
 st.sidebar.title("Portho")
-st.sidebar.markdown('''Portho is a corpus-based lexical resource that provides orthographic neighbor metrics for over 43,000 word forms. In addition to classical neighborhood size measures, Portho provides frequency-based statistics (based on [AC/DC project](https://www.linguateca.pt/ACDC/) corpora), as well as graded orthographic distance features. Please read our [paper](/) for more details on the resource and its construction.''')
+st.sidebar.markdown('''Portho is a corpus-based lexical resource that provides orthographic neighbor metrics for over 43,000 word forms. In addition to classical neighborhood size measures, Portho provides frequency-based statistics (based on [AC/DC project](https://www.linguateca.pt/ACDC/) corpora), as well as graded orthographic distance features. Please read our [paper](https://aclanthology.org/2026.propor-1.40/) for more details on the resource and its construction.''')
 
 
 st.header("Portho: Orthographic Neighbors in European Portuguese")
